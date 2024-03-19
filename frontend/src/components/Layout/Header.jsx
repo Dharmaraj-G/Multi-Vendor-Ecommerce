@@ -70,7 +70,7 @@ const Header = ({ activeHeading }) => {
               placeholder="Search Product..."
               value={searchTerm}
               onChange={handleSearchChange}
-              className="h-[40px] w-full px-2 border-[#3957db] border-[2px] rounded-md"
+              className="h-[40px] w-full px-2 border-[#090b11] border-[2px] rounded-md"
             />
             <AiOutlineSearch
               size={30}
@@ -217,7 +217,7 @@ const Header = ({ activeHeading }) => {
           <div>
             <Link to="/">
               <img
-                src="https://shopo.quomodothemes.website/assets/images/logo.svg"
+                src="https://shopo.quomodothemes.website/assets/images/logo2.svg"
                 alt=""
                 className="mt-3 cursor-pointer"
               />

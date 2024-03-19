@@ -191,72 +191,72 @@ export const navItems = [
   export const categoriesData = [
     {
       id: 1,
-      title: "Computers and Laptops",
+      title: "Full Sleeve T-Shirts",
       subTitle: "",
       image_Url:
-        "https://cdn.shopify.com/s/files/1/1706/9177/products/NEWAppleMacbookProwithM1ProChip14InchLaptop2021ModelMKGQ3LL_A_16GB_1TBSSD_custommacbd.jpg?v=1659592838",
+        "https://imagescdn.planetfashion.in/img/app/product/7/789766-9238381.jpg?auto=format&w=494.40000000000003",
     },
     {
       id: 2,
-      title: "cosmetics and body care",
+      title: "Half-Sleeve T-Shirts",
       subTitle: "",
       image_Url:
-        "https://indian-retailer.s3.ap-south-1.amazonaws.com/s3fs-public/2021-07/kosme1.png",
+        "https://imagescdn.planetfashion.in/img/app/product/7/794205-9324478.jpg?auto=format&w=494.40000000000003",
     },
     {
       id: 3,
-      title: "Accesories",
+      title: "Hoodies",
       subTitle: "",
       image_Url:
-        "https://img.freepik.com/free-vector/ordering-goods-online-internet-store-online-shopping-niche-e-commerce-website-mother-buying-babies-clothes-footwear-toys-infant-accessories_335657-2345.jpg?w=2000",
+        "https://5.imimg.com/data5/HP/SX/LL/SELLER-31877795/purple1-500x500.JPG",
     },
     {
       id: 4,
-      title: "Cloths",
+      title: "Round-Neck T-Shirts",
       subTitle: "",
       image_Url:
-        "https://www.shift4shop.com/2015/images/industries/clothing/clothing-apparel.png",
+        "https://5.imimg.com/data5/SELLER/Default/2020/9/UF/VS/OG/36383055/round-neck-tshirt-500x500.jpg",
     },
     {
       id: 5,
-      title: "Shoes",
+      title: "Inner wears",
       subTitle: "",
       image_Url:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvBQPQMVNRd6TtDkGs2dCri0Y-rxKkFOiEWw&usqp=CAU",
+        "https://5.imimg.com/data5/SELLER/Default/2021/5/PY/AE/UM/6920678/white-cotton-thermal-inner-wear-500x500.jpg",
     },
     {
       id: 6,
-      title: "Gifts",
+      title: "Oversized-T-Shirts",
       subTitle: "",
       image_Url:
-        "https://securecdn.pymnts.com/wp-content/uploads/2014/11/Gifts-Photo-700x489.jpg",
+        "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/24476072/2023/8/12/bc44f14f-b17b-4266-b036-4968324563901691849283573THEHOLLANDERMenOrangeColourblockedPocketsT-shirt1.jpg",
     },
     {
       id: 7,
-      title: "Pet Care",
+      title: "Crew-Neck-T-Shirts",
       subTitle: "",
-      image_Url: "https://cdn.openpr.com/T/c/Tc15444071_g.jpg",
+      image_Url: "https://imagescdn.planetfashion.in/img/app/product/8/889538-10744185-large.jpg",
     },
     {
       id: 8,
-      title: "Mobile and Tablets",
+      title: "Atheletic Hoodies",
       subTitle: "",
       image_Url:
-        "https://st-troy.mncdn.com/mnresize/1500/1500/Content/media/ProductImg/original/mpwp3tua-apple-iphone-14-256gb-mavi-mpwp3tua-637986832343472449.jpg",
+        "https://5.imimg.com/data5/IZ/ND/FT/SELLER-36918138/mens-stylish-hoodie-500x500.jpg",
     },
     {
       id: 9,
-      title: "Music and Gaming",
+      title: "Oversized Hoodies",
       subTitle: "",
       image_Url:
-        "https://static.vecteezy.com/system/resources/previews/011/996/555/original/3d-black-headphone-illustration-ecommerce-icon-png.png",
+        "https://5.imimg.com/data5/SELLER/Default/2023/6/313974178/BK/HR/OY/7633002/oversized-hoodies-500x500.jpg",
     },
     {
       id: 10,
       title: "Others",
       subTitle: "",
       image_Url:
-        "https://searchspring.com/wp-content/uploads/2022/10/Hero-Image-Platform-Others-2.png",
+        "https://cdn.shopify.com/s/files/1/0228/2185/files/pin-different-tshirt-types.jpg?v=1681226053",
     },
   ];
   
@@ -593,18 +593,18 @@ export const navItems = [
   
   export const footerProductLinks = [
     {
-      name: "About us",
+      name: "About our company",
       link: "/about"
     },
     {
-      name: "Careers",
+      name: "Our goal",
       link: "/carrers"
     },
     {
-      name: "Store Locations",
+      name: "Locations",
     },
     {
-      name: "Our Blog",
+      name: "Our Best Price Discount products",
     },
     {
       name: "Reviews",
@@ -613,19 +613,19 @@ export const navItems = [
   
   export const footercompanyLinks = [
     {
-      name: "Game & Video",
+      name: "Round Neck T-Shirts",
     },
     {
-      name: "Phone &Tablets",
+      name: "Full Sleeve T-Shirts",
     },
     {
-      name: "Computers & Laptop",
+      name: "Hoodies",
     },
     {
-      name: "Sport Watches",
+      name: "Inner wear",
     },
     {
-      name: "Events",
+      name: "Half Sleeve T-Shirts",
     },
   ];
   
