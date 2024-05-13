@@ -8,14 +8,15 @@ const Hero = () => {
       className={`relative min-h-[70vh] 800px:min-h-[80vh] w-full bg-no-repeat ${styles.noramlFlex}`}
       style={{
         backgroundImage:
-          "url(https://themes.rslahmed.dev/rafcart/assets/images/banner-2.jpg)",
+          "url(https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg)",
+    
       }}
     >
       <div className={`${styles.section} w-[90%] 800px:w-[60%]`}>
         <h1
           className={`text-[30px] leading-[1.2] 800px:text-[45px] text-[#3d3a3a] font-[600] capitalize`}
         >
-          Best Platform for Purchasing <br /> Secondand Quality Clothing Pieces.
+          Best Platform for Purchasing <br /> Second Quality Clothing Pieces.
         </h1>
         <p className="pt-5 text-[16px] font-[Poppins] font-[400] text-[#000000ba]">
           This is the one and only platform where you can buy the branded products with an discount in very low price.
