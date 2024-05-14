@@ -8,9 +8,9 @@ import {
 import { Link } from "react-router-dom";
 import {
   footercompanyLinks,
-  footerProductLinks,
+  footerProductLinks, // Make sure footerProductLinks is imported
   footerSupportLinks,
-} from "../../static/data";
+} from "../../static/data"; // Assuming footerProductLinks is defined here
 
 const Footer = () => {
   return (
